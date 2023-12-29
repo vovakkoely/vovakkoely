@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vovak</h1>
-I’m currently working on goverment project **Kolo Systems** as front-end developer. At the same time, I launch nodes for new projects, help in testing them, and act as a validator. Write if you have questions or interesting things to do :)
+I’m currently working on goverment project <b>Kolo Systems</b> as front-end developer. At the same time, I launch nodes for new projects, help in testing them, and act as a validator. Write if you have questions or interesting things to do :)
 
 
 
